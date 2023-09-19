@@ -1,0 +1,22 @@
+{
+  "name": "ray-caster",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lil-gui": "^0.16.1",
+    "mini-css-extract-plugin": "^2.6.0",
+    "portfinder-sync": "0.0.2",
+    "raw-loader": "^4.0.2",
+    "style-loader": "^3.3.1",
+    "three": "^0.140.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  }
+}
